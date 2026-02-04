@@ -1,1 +1,1 @@
-![Image]('image\cat.gif')
+<img src="image\cat.gif">
